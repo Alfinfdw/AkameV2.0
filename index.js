@@ -3,7 +3,7 @@
  * Recode By GuaAbuzz
  * Kalau Mau Recode, Edit Aja Di confiq.js
  * Kecewa Gua Sama Kalian
- * Contact Me On wa.me/6289636827082
+ * Contact Me On wa.me/6282223011829
  * Follow https://github.com/Abuzzpoet
  */
 
